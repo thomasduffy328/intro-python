@@ -1,7 +1,7 @@
 def dotProduct(listA, listB):
     '''
     listA: a list of numbers
-    listB: a list of numbers of the same length as listA
+    listB: a list of numbers
     '''
     # handle case where input are lists of different lengths
     if len(listA) != len(listB):
