@@ -16,7 +16,6 @@ def dict_invert(d):
     for i in uniqueElements:
         reverse_d[i] = []
 
-
     # now find which values of first list correspond to reverse keys
     # return the keys of first list as values of second
     for i in uniqueElements:
